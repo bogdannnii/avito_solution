@@ -2,8 +2,6 @@
 
 Запуск: Python 3.9.13. Скрипт создаёт `submission.csv`. Я зафиксировал все seed поэтому повторный запуск даёт тот же файл. Признаки строятся в `features.py`, обучение и валидация — в `solution.py`
 
-Библиотеки: pandas==2.2.3, numpy==1.26.4, scikit-learn==1.5.2, lightgbm==4.5.0.
-Установка: `pip install -r requirements.txt`, затем `python solution.py` в папке с распакованным архивом данных (нужны `data/` и `metric.py`).
 LLM и внешние API я не использовал
 
 ## Подготовка событий
